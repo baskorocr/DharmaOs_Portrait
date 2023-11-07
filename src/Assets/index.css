@@ -1,0 +1,305 @@
+body {
+  background-color: #337ccf;
+  overflow: hidden;
+  height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(-90deg);
+  margin-left: -305px;
+}
+
+.logo {
+  width: 28rem;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+}
+#ccsType {
+  width: 85%;
+  height: 35%;
+  margin-top: 5%;
+  margin-left: 1px;
+}
+#ccsAC {
+  width: 90%;
+  height: 25%;
+  margin-top: 5%;
+  margin-left: 1px;
+}
+.icon {
+  width: 80%;
+  margin-top: -30%;
+  margin-left: -5%;
+}
+
+.code {
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+}
+.ccs {
+  margin-top: 40%;
+  margin-bottom: 20%;
+}
+.btnEx {
+  margin: auto;
+  width: 200px;
+  height: 300px;
+  margin-top: 30%;
+  border-radius: 30px;
+  border: 3px solid #ffffff;
+  background-color: #337acb;
+}
+h2 {
+  color: #ffffff;
+}
+h1 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+h3 {
+  color: #ffffff;
+}
+
+.number {
+  font-weight: bold;
+  border-radius: 100%;
+  background-color: #0c8542;
+  width: 78px;
+  height: 78px;
+  padding: 12px;
+  margin-left: 30%;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  font-size: 30px;
+  font-family: "Lucida Sans Regular";
+}
+.text {
+  margin-bottom: 20px;
+}
+#customCard {
+  width: 820px;
+  height: 435px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.icon2 {
+  width: 10rem;
+  height: 5rem;
+}
+
+.btn1 {
+  margin-top: -50%;
+  margin-bottom: 25%;
+}
+.btn2 {
+  margin-top: -53%;
+  margin-bottom: 25%;
+}
+.type2 {
+  margin-top: 71%;
+  padding-bottom: 10%;
+}
+.icon3 {
+  width: 80%;
+  height: 27%;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+.chademo {
+  margin-top: 60%;
+}
+.btn3 {
+  margin-top: -65%;
+  margin-bottom: 25%;
+}
+.gif {
+  margin-top: -15%;
+  width: 700px;
+}
+
+#cekImg {
+  margin-top: -5px;
+  padding-left: 60px;
+  margin-bottom: 5px;
+}
+.imgCek {
+  width: 400px;
+}
+#home {
+  margin-top: 150px;
+}
+.btnHome {
+  width: 350px;
+  height: 80px;
+  margin-top: -11%;
+  background-color: #0c8542;
+  border-radius: 10px;
+
+  border-radius: 9px;
+  border: 3px solid #ffffff;
+}
+.back {
+  padding-left: 8%;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+#homeImg {
+  padding-left: 65px;
+  width: 75px;
+  height: 40px;
+  padding-top: 5px;
+}
+#back {
+  padding-top: 10px;
+}
+
+.status {
+  font-size: 30px;
+  color: #0c8542;
+}
+.col-2 {
+  display: flex;
+  justify-content: center;
+}
+.iconBt {
+  margin-left: -25%;
+  margin-top: -9%;
+  width: 60%;
+}
+
+.btnFinish {
+  background-color: #b81010;
+  border-radius: 10px;
+
+  border-radius: 9px;
+  border: 3px solid #ffffff;
+}
+.chargingS {
+  width: 750px;
+  margin-left: -250px;
+  margin-top: -80px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.data {
+  padding-top: 35px;
+  font-size: 25px;
+}
+.dash {
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: -30px;
+}
+
+.progress {
+  height: 40px;
+  width: 900px;
+  border-radius: 20px;
+}
+.persen {
+  margin-left: -20px;
+  margin-top: -100px;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: #000000;
+  font-weight: bold;
+}
+.tables {
+  align-items: center;
+
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.cols {
+  margin: auto;
+  background-color: #d9d9d9;
+  width: 200px;
+  height: 170px;
+  border-radius: 9px;
+  text-align: center;
+  padding-top: 7px;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.btnStop {
+  padding-left: 20px;
+  font-size: 28px;
+  color: white;
+  margin-top: 30%;
+}
+.imgStop {
+  margin-top: -12px;
+}
+
+.line {
+  border: 2px solid #0c8542;
+  margin-top: -30px;
+}
+#top {
+  margin-top: 160px;
+}
+
+.styleD {
+  font-size: 17px;
+  padding-left: 5%;
+  color: #0c8542;
+  font-weight: bold;
+}
+
+.up {
+  font-size: 2rem;
+}
+
+.val {
+  background-color: #0c8542;
+  border-radius: 5px;
+  color: #ffffff;
+  width: 150px;
+}
+
+.error {
+  width: 25rem;
+  height: 25rem;
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+  transform: rotateY("90deg");
+}
+
+.btnfinish {
+  margin-top: 50px;
+}
+#btnFinis {
+  margin: auto;
+  background-color: #b81010;
+  justify-content: center;
+  height: 70px;
+  width: 650px;
+  border-radius: 9px;
+  border: solid #ffffff00;
+}
+
+.powerUp {
+  width: 600px;
+  margin-left: 40px;
+}
+
+.divError {
+  filter: brightness(50%);
+  filter: contrast(50%);
+  filter: drop-shadow(5px 5px 5px #5f17175e);
+}
